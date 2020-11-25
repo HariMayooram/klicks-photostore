@@ -1,0 +1,33 @@
+/*btn.success{
+
+
+}
+.navbar-default
+{
+	background-color: #FFs5733  ;
+}
+
+.navbar-default {
+    background-color: #F8F8F8;
+    border-color: #E7E7E7;
+}*/
+.navbar-inverse .navbar-brand {
+    color: white;
+}
+#dow{
+	height: 255px;
+}
+
+thumbnail a > img, .thumbnail > img {
+height: 250px;
+width: 340px;
+}
+h1{
+font-size: 5em;
+}
+/*.jumbotron{
+	background: black;
+}
+/*.jumbotron .h1, .jumbotron h1 {
+    color: white;
+}

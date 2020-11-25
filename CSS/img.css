@@ -1,0 +1,13 @@
+img{
+	width: 30%;
+	height: 350px;
+	float: left;
+	margin: 20px;
+}
+
+/* Gradient transparent - color - transparent */
+hr { border: 0;
+ height: 1px; 
+ color: blue;
+ background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+  }
